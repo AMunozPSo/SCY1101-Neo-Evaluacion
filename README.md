@@ -12,6 +12,7 @@
 Proyecto de machine learning aplicado al dataset de Near Earth Objects (NEO) de la NASA. Se implementan y comparan modelos supervisados (Regresión Logística, Random Forest, Árbol de Decisión) y técnicas no supervisadas (PCA, K-Means), con optimización de hiperparámetros mediante GridSearchCV y RandomizedSearchCV.
 
 ## Estructura del proyecto
+```
 proyecto_neo_nasa/
 ├── data/
 │   ├── raw/
@@ -21,7 +22,7 @@ proyecto_neo_nasa/
 ├── notebooks/
 │   └── neo_evaluacion2.ipynb   # Notebook principal
 └── README.md
-
+```
 ## Dependencias
 pandas, numpy, matplotlib, seaborn, scikit-learn, joblib
 
